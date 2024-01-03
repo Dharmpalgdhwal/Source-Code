@@ -17,22 +17,23 @@ Name = input("Name: ")
 Login_ID = input("Mail ID: ")
 Password = input("Password: ")
 
-if Name == "Vasudev Shastri" and Login_ID == "vasu@gmail.com" and Password == "vasu_16":
+if Name == "Vasudev Shastri" and Login_ID == "admin@name1.com" and Password == "3fsr3@3":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Anjai" and Login_ID == "anjli@gmail.com" and Password == "anjai":
+elif Name == "Anjai" and Login_ID == "admin@name2.com" and Password == "ds243i":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Dharmpal" and Login_ID == "dharmpalgadhwal827@gmail.com" and Password == "dh82A@16":
+elif Name == "Dharmpal" and Login_ID == "admin@name3.com" and Password == "45tstg":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")       
 else:
     Login = False
     print("\nRadhe Radhe😔\nLogin Failed!!!😔\n")
     if Login == "\nRadhe Radhe😔\nLogin Failed!!!😔\n":
-       exit()
+       
 
-# Tell me now any thing
+# Tell me anything
 if Login == True:
     print(input("Tell me now any thing🤗..."))
 ```
+
