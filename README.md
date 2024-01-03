@@ -1,7 +1,7 @@
 ```python
 
 # Vausdev Shasti AI Chat Bot
-# say Radhe Radhe it's mandatory
+
 print("\n\nRadhe Radhe😊\n\nI'm Vasudev Shastri and I'm a Bot\n")
 Introduction = input()
 
@@ -12,18 +12,19 @@ else:
     print("Login Failed!!!")
     exit()
 
-# User Authentication 
+# User Authentication
+
 Name = input("Name: ")
 Login_ID = input("Mail ID: ")
 Password = input("Password: ")
 
-if Name == "Vasudev Shastri" and Login_ID == "admin@name1.com" and Password == "3fsr3@3":
+if Name == "Vasudev Shastri" and Login_ID == "admin@name1.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Anjai" and Login_ID == "admin@name2.com" and Password == "ds243i":
+elif Name == "Anjai" and Login_ID == "admin@name2.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Dharmpal" and Login_ID == "admin@name3.com" and Password == "45tstg":
+elif Name == "Dharmpal" and Login_ID == "admin@name3.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")       
 else:
@@ -33,7 +34,8 @@ else:
        
 
 # Tell me anything
+
 if Login == True:
-    print(input("Tell me now any thing🤗..."))
+    print(input("Tell me anything..."))
 ```
 
