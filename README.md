@@ -1,7 +1,7 @@
-```Python
+```
 
 # Vausdev Shasti AI Chat Bot
-# say Radhe Radhe it's mandetory
+# say Radhe Radhe it's mandatory
 print("\n\nRadhe Radhe😊\n\nI'm Vasudev Shastri and I'm a Bot\n")
 Introduction = input()
 
