@@ -1,4 +1,4 @@
-```
+```python
 
 # Vausdev Shasti AI Chat Bot
 # say Radhe Radhe it's mandatory
