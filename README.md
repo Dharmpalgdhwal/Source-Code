@@ -18,13 +18,13 @@ Name = input("Name: ")
 Login_ID = input("Mail ID: ")
 Password = input("Password: ")
 
-if Name == "Vasudev Shastri" and Login_ID == "admin@name1.com" and Password == "your_password1":
+if Name == "Admin Name" and Login_ID == "admin@name1.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Anjai" and Login_ID == "admin@name2.com" and Password == "your_password1":
+elif Name == "Admin Name" and Login_ID == "admin@name2.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")
-elif Name == "Dharmpal" and Login_ID == "admin@name3.com" and Password == "your_password1":
+elif Name == "Admin Name" and Login_ID == "admin@name3.com" and Password == "your_password1":
     Login = True
     print("Radhe Radhe😊\n\nLogin Successful!!!\n\nWelcome🤗\n")       
 else:
